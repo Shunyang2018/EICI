@@ -1,0 +1,80 @@
+,cilist,M,mtype,mix,RT,Name,estimate RT,TMP
+0,[1. 0. 0. 0.],220,M-H,1,6.8707,propyleneglycol,6.871,2
+1,[1. 0. 0. 0.],220,M-H,1,6.874017,propyleneglycol,6.871,2
+2,[1. 0. 0. 0.],217,M+H,1,8.28705,2-ketoisovaleric acid,8.586,1
+3,[1. 0. 0. 0.],217,M+H,1,8.509283,2-ketoisovaleric acid,8.586,1
+4,[0. 0. 1. 1.],217,M+H,1,8.578934,2-ketoisovaleric acid,8.586,1
+5,[0. 0. 0. 1.],217,M+H,1,8.585567,2-ketoisovaleric acid,8.586,1
+6,[0. 0. 1. 0.],199,M+H,1,9.467883,water-2-ketoisovaleric acid,8.586,1
+7,[1. 0. 0. 0.],132,M-H,1,6.824266,2-hydroxyhexanoic acid,10.433,0
+8,[0. 0. 1. 1.],132,M-H,1,10.25732,2-hydroxyhexanoic acid,10.433,0
+9,[0. 0. 1. 1.],276,M+H,1,10.43312,2-hydroxyhexanoic acid,10.433,2
+10,[0. 0. 1. 1.],276,M+H,1,10.43643,2-hydroxyhexanoic acid,10.433,2
+11,[1. 0. 0. 0.],364,M+H,1,12.94405,citramalic acid,12.994,3
+12,[0. 0. 1. 0.],364,M+H,1,12.99382,citramalic acid,12.994,3
+13,[0. 0. 1. 1.],438,M+H,1,14.94418,tartaric acid,14.944,4
+14,[0. 0. 1. 1.],132,M-H,1,10.25732,water-tartaric acid,14.944,0
+15,[0. 0. 1. 1.],276,M+H,1,10.43312,water-tartaric acid,14.944,2
+16,[0. 0. 1. 1.],276,M+H,1,10.43643,water-tartaric acid,14.944,2
+17,[0. 0. 1. 1.],390,M+H,1,18.7985,N-acetylornithine,18.799,3
+18,[1. 0. 0. 0.],562,M+H,1,24.87187,spermine,24.927,5
+19,[1. 0. 0. 0.],544,M-H,1,27.7311,water-spermine,24.927,5
+20,[0. 0. 1. 1.],234,M+H,2,8.54775,3-hydroxypropionic acid,8.548,2
+21,[0. 0. 1. 1.],234,M+H,2,8.650583,3-hydroxypropionic acid,8.548,2
+22,[0. 0. 1. 1.],234,M+H,2,8.72355,3-hydroxypropionic acid,8.548,2
+23,[0. 0. 1. 1.],234,M+H,2,8.730184,3-hydroxypropionic acid,8.548,2
+24,[0. 0. 1. 1.],466,M+H,2,15.25797,pyrophosphate 4 TMS,15.258,4
+25,[1. 0. 0. 0.],262,M+H,2,10.9028,water-dihydroxymalonic acid,12.711,2
+26,[0. 0. 1. 1.],374,M+H,2,16.11373,water-N-carbamoylaspartate 4 TMS,18.29,3
+27,[0. 0. 1. 0.],642,M+H,2,18.89003,saccharic acid,18.89,6
+28,[0. 0. 1. 1.],480,M+H,2,18.28967,water-saccharic acid,18.89,4
+29,[1. 0. 0. 0.],480,M+H,2,18.51523,water-saccharic acid,18.89,4
+30,[0. 0. 1. 0.],708,M+H,2,26.77115,inosine 5'-monophosphate,26.771,5
+31,[0. 0. 1. 1.],167,M+H,3,8.434234,3-hydroxypyridine,8.434,1
+32,[0. 1. 1. 1.],167,M+H,3,8.752666,3-hydroxypyridine,8.434,1
+33,[0. 0. 1. 1.],167,M+H,3,8.775884,3-hydroxypyridine,8.434,1
+34,[0. 0. 1. 1.],314,M+H,3,10.35143,phosphate,10.351,3
+35,[0. 0. 1. 1.],244,M+H,3,12.81263,capric acid,12.823,1
+36,[0. 0. 1. 1.],244,M+H,3,12.82258,capric acid,12.823,1
+37,[0. 0. 1. 0.],276,M+H,3,15.35012,3-ureidopropionate,15.35,2
+38,[0. 0. 1. 1.],258,M+H,3,12.27528,water-3-ureidopropionate,15.35,2
+39,[0. 0. 1. 0.],276,M+H,3,15.35012,pyridoxal-5-phosphate,0.0,0
+40,[0. 0. 1. 1.],258,M+H,3,12.27528,water-pyridoxal-5-phosphate,0.0,0
+41,[0. 0. 1. 1.],166,M+H,4,7.49625,phenol,7.496,1
+42,[0. 0. 1. 1.],157,M+H,4,9.194533,butyrolactam,9.195,1
+43,[0. 0. 1. 0.],203,M+H,5,8.037117,2-ketobutyric acid,7.812,1
+44,[0. 0. 1. 1.],175,M+H,5,7.406883,2-aminobutyric acid,9.049,1
+45,[0. 0. 1. 1.],175,M+H,5,7.413533,2-aminobutyric acid,9.049,1
+46,[1. 0. 0. 0.],247,M+H,5,9.048783,2-aminobutyric acid,9.049,2
+47,[1. 0. 0. 0.],229,M+H,5,6.846334,water-2-aminobutyric acid,9.049,2
+48,[0. 0. 1. 1.],195,M+H,5,10.73382,Nicotinic acid,10.734,1
+49,[0. 0. 1. 1.],175,M+H,5,7.406883,water-phenylpyruvate,0.0,0
+50,[0. 0. 1. 1.],175,M+H,5,7.413533,water-phenylpyruvate,0.0,0
+51,[1. 0. 0. 0.],247,M+H,5,9.048783,water-phenylpyruvate,0.0,1
+52,[0. 0. 1. 1.],274,M+H,5,16.24328,N-acetylputrescine,16.243,2
+53,[1. 0. 0. 0.],233,M,5,17.17867,tryptophol,17.782,1
+54,[1. 0. 0. 0.],305,M,5,17.78235,tryptophol,17.782,2
+55,[0. 0. 1. 1.],368,M+H,5,19.34465,cis-sinapinic acid,19.345,2
+56,[0. 0. 1. 1.],368,M+H,5,21.12917,cis-sinapinic acid,19.345,2
+57,[1. 0. 0. 0.],171,M-H,6,7.30195,cyclohexylamine,7.302,1
+58,[0. 0. 1. 1.],171,M-H,6,7.670133,cyclohexylamine,7.302,1
+59,[0. 0. 1. 0.],262,M+H,6,9.19925,2-hydroxyvaleric acid,9.428,2
+60,[0. 0. 1. 0.],262,M+H,6,9.414866,2-hydroxyvaleric acid,9.428,2
+61,[0. 0. 1. 1.],262,M+H,6,9.428133,2-hydroxyvaleric acid,9.428,2
+62,[0. 0. 0. 1.],262,M+H,6,9.43145,2-hydroxyvaleric acid,9.428,2
+63,[0. 0. 1. 0.],223,M+H,6,16.34732,acetaminophen (2 TMS),14.871,1
+64,[0. 0. 1. 1.],295,M+H,6,14.87127,acetaminophen (2 TMS),14.871,2
+65,[0. 0. 1. 0.],223,M+H,6,16.34732,acetaminophen (1 TMS),16.347,1
+66,[0. 0. 1. 0.],376,M+H,6,18.02902,water-gulonolactone,18.029,3
+67,[0. 0. 1. 0.],448,M+H,6,18.33418,water-gulonolactone,18.029,4
+68,[0. 0. 1. 1.],538,M+H,6,19.53162,N-acetylmannosamine,19.532,4
+69,[0. 0. 1. 0.],376,M+H,6,18.02902,water-N-acetylmannosamine,19.532,2
+70,[0. 0. 1. 0.],448,M+H,6,18.33418,water-N-acetylmannosamine,19.532,3
+71,[1. 0. 0. 0.],384,M-H,6,23.6148,water-2-monopalmitin,23.913,1
+72,[0. 0. 1. 0.],175,M+H,7,7.006767,dimethylglycine,7.007,1
+73,[1. 0. 0. 0.],291,M+H,7,11.92915,O-acetylserine,11.929,2
+74,[0. 0. 1. 1.],201,M+H,7,9.471283,water-O-acetylserine,11.929,1
+75,[1. 0. 0. 0.],193,M+H,7,9.431483,deoxyglucose,0.0,0
+76,[1. 0. 0. 0.],265,M+H,7,10.41993,deoxyglucose,0.0,1
+77,[0. 0. 1. 0.],175,M+H,7,7.006767,water-deoxyglucose,0.0,0
+78,[1. 0. 0. 0.],474,M-H,7,23.90008,1-monopalmitin,21.183,2

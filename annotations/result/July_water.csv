@@ -1,0 +1,29 @@
+,cilist,M,mtype,mix,RT,Name,estimate RT,TMP
+0,[1. 0. 0. 0.],319,M,1,6.571767,citrulline,0.0,2
+1,[0. 0. 0. 1.],229,M+H,1,6.93,water-citrulline,0.0,1
+2,[0. 0. 1. 1.],340,M+H,2,17.54868,pyridoxal,17.549,2
+3,[0. 0. 1. 1.],460,M+H,2,22.81272,uridine,22.813,3
+4,[0. 0. 1. 1.],271,M+H,3,10.87645,water-guanidinobutyric acid,0.0,2
+5,[0. 0. 1. 1.],276,M+H,3,12.0805,glutaric acid,12.127,2
+6,[0. 0. 1. 0.],247,M+H,3,13.70252,gamma-aminobutyric acid,13.712,2
+7,[0. 1. 0. 0.],157,M-H,3,13.66603,water-gamma-aminobutyric acid,13.712,1
+8,[0. 0. 1. 1.],554,M+H,3,17.77575,d-(+)-galacturonic acid,17.716,5
+9,[0. 0. 1. 1.],554,M+H,3,17.77575,d-(+)-galacturonic acid,17.776,5
+10,[0. 0. 1. 1.],326,M+H,3,19.0959,palmitoleic acid,19.096,1
+11,[0. 1. 0. 0.],308,M+H,3,17.09245,water-palmitoleic acid,19.096,1
+12,[0. 0. 1. 0.],367,M+H,3,20.01138,guanine,20.011,3
+13,[0. 0. 1. 1.],245,M+H,4,12.57437,acetyl leucine,12.339,1
+14,[0. 0. 0. 1.],253,M+H,4,14.51148,hypotaurine,14.518,2
+15,[0. 1. 0. 1.],384,M+H,4,14.51812,L-cystine,0.0,2
+16,[0. 0. 1. 1.],377,M+H,5,15.80482,alpha-aminoadipic acid,15.805,3
+17,[0. 0. 1. 0.],333,M+H,5,19.4966,kynurenic acid 1,19.497,2
+18,[0. 0. 1. 0.],333,M+H,5,19.4966,kynurenic acid 2,19.596,2
+19,[0. 0. 1. 1.],328,M-H,5,19.27103,phosphocholine,0.0,2
+20,[0. 1. 0. 0.],247,M+H,6,7.45875,4-aminobutyric acid,8.978,2
+21,[0. 0. 1. 0.],247,M+H,6,8.98455,4-aminobutyric acid,8.978,2
+22,[0. 0. 1. 1.],247,M+H,6,9.06415,4-aminobutyric acid,8.978,2
+23,[0. 0. 0. 1.],247,M-H,6,9.077416,4-aminobutyric acid,8.978,2
+24,[0. 1. 0. 0.],247,M+H,6,7.45875,4-aminobutyric acid,9.064,2
+25,[0. 0. 1. 0.],247,M+H,6,8.98455,4-aminobutyric acid,9.064,2
+26,[0. 0. 1. 1.],247,M+H,6,9.06415,4-aminobutyric acid,9.064,2
+27,[0. 0. 0. 1.],247,M-H,6,9.077416,4-aminobutyric acid,9.064,2

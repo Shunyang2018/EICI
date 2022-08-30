@@ -1,0 +1,148 @@
+,cilist,M,mtype,mix,RT,Name,estimate RT,TMP
+0,[0. 0. 1. 1.],275,M+H,1,12.38285,trans-3-hydroxy-L-proline,12.89,2
+1,[1. 0. 0. 0.],347,M+H,1,12.89035,trans-3-hydroxy-L-proline,12.89,3
+2,[0. 1. 0. 0.],170,M-H,1,11.73605,dihydroxyacetone phosphate,0.0,0
+3,[0. 0. 1. 1.],314,M+H,1,10.32633,dihydroxyacetone phosphate,0.0,2
+4,[0. 0. 1. 0.],296,M+H,1,6.551633,water-dihydroxyacetone phosphate,0.0,2
+5,[0. 0. 1. 1.],296,M,1,14.41617,water-dihydroxyacetone phosphate,0.0,2
+6,[1. 0. 0. 0.],612,M+H,1,17.55402,allo-inositol,17.554,6
+7,[0. 0. 1. 1.],266,M+H,1,19.98867,9-phenanthrenol,0.0,1
+8,[1. 0. 0. 0.],370,M+H,1,8.419084,L-dithiothreitol,0.0,3
+9,[0. 0. 0. 1.],237,M+H,2,7.808267,L-alanine-D4,0.0,2
+10,[1. 0. 0. 0.],237,M+H,2,8.027184,L-alanine-D4,0.0,2
+11,[1. 0. 0. 0.],237,M+H,2,8.0504,L-alanine-D4,0.0,2
+12,[1. 0. 0. 0.],319,M+H,2,12.89315,DL-3-aminoisobutyric acid,12.893,3
+13,[0. 0. 1. 1.],318,M+H,2,14.43222,phenylphosphoric acid,14.432,2
+14,[0. 0. 1. 1.],333,M+H,2,16.58493,N-acetyl-L-glutamic acid,16.585,2
+15,[0. 0. 0. 1.],176,M+H,2,7.038717,water-methyl-β-D-galactopyranoside,0.0,0
+16,[0. 0. 1. 0.],384,M+H,2,23.82253,alizarin,23.819,2
+17,[0. 0. 1. 0.],173,M-H,3,6.582383,acetoacetate,0.0,1
+18,[0. 0. 1. 0.],310,M+H,3,16.38403,3-(4-hydroxyphenyl)propionic acid,16.384,2
+19,[0. 0. 1. 0.],414,M+H,3,17.54165,DL-4-hydroxy-3-methoxymandelic acid,17.542,3
+20,[1. 0. 0. 0.],252,M+H,3,14.95443,water-DL-4-hydroxy-3-methoxymandelic acid,17.542,1
+21,[0. 0. 1. 1.],312,M+H,4,16.41182,4-hydroxy-3-methoxybenzoic acid,16.412,2
+22,[0. 0. 1. 1.],562,M+H,4,24.93642,phloretin,24.936,4
+23,[0. 0. 1. 1.],161,M+H,4,8.155884,lactamide,8.985,1
+24,[1. 0. 0. 0.],268,M,4,12.9688,3-hydroxybenzyl alcohol,12.969,2
+25,[0. 0. 1. 1.],388,M+H,4,20.07375,water-Asp-Glu,22.193,2
+26,[0. 0. 1. 1.],460,M+H,4,20.8864,water-Asp-Glu,22.193,3
+27,[1. 0. 0. 0.],237,M+H,5,13.93623,phenylalanine,13.936,1
+28,[0. 0. 1. 1.],342,M+H,5,15.03083,phloroglucinol,15.031,3
+29,[0. 0. 1. 0.],242,M+H,5,15.94963,"DL-3,4-dihydroxyphenylglycol",17.545,1
+30,[0. 0. 1. 1.],314,M+H,5,16.54668,"DL-3,4-dihydroxyphenylglycol",17.545,2
+31,[0. 0. 1. 1.],314,M+H,5,16.55995,"DL-3,4-dihydroxyphenylglycol",17.545,2
+32,[0. 0. 1. 0.],458,M-H,5,17.5451,"DL-3,4-dihydroxyphenylglycol",17.545,4
+33,[1. 0. 0. 0.],352,M+H,5,20.33798,L-kynurenine,20.62,2
+34,[1. 0. 0. 0.],424,M,5,20.60003,L-kynurenine,20.62,3
+35,[0. 0. 1. 1.],342,M+H,5,15.03083,D-(+)-trehalose,0.0,0
+36,[0. 0. 1. 1.],342,M+H,5,15.03083,isomaltose,0.0,0
+37,[0. 0. 1. 0.],126,M+H,6,13.26252,4-hydroxy-6-methyl-2-pyrone,13.272,0
+38,[0. 0. 1. 1.],217,M,6,15.01718,4-hydroxyquinoline,15.034,1
+39,[1. 0. 0. 0.],217,M+H,6,15.03378,4-hydroxyquinoline,15.034,1
+40,[0. 0. 1. 1.],313,M+H,6,17.45848,3-methyl-L-histidine,17.458,2
+41,[0. 0. 1. 1.],265,M+H,6,17.76365,phenaceturic acid,17.764,1
+42,[1. 0. 0. 0.],305,M+H,7,12.3846,beta-alanine,12.444,3
+43,[1. 0. 0. 0.],305,M+H,7,12.44432,beta-alanine,12.444,3
+44,[0. 0. 1. 0.],296,M+H,7,15.01497,4-hydroxyphenylacetic acid,15.015,2
+45,[0. 0. 1. 1.],571,M+H,7,25.13833,guanosine,25.251,4
+46,[0. 0. 1. 1.],643,M+H,7,25.26107,guanosine,25.251,5
+47,[0. 0. 0. 1.],222,M-H,7,6.626367,farnesol,0.0,0
+48,[0. 0. 1. 1.],334,M+H,7,18.91572,N-carbamyl-L-glutamic acid,19.251,2
+49,[0. 0. 1. 1.],406,M+H,7,19.25073,N-carbamyl-L-glutamic acid,19.251,3
+50,[0. 0. 1. 1.],316,M+H,7,17.95712,water-N-carbamyl-L-glutamic acid,19.251,2
+51,[0. 0. 1. 1.],388,M+H,7,17.69507,water-N-carbamyl-L-glutamic acid,19.251,3
+52,[0. 0. 1. 1.],157,M+H,7,8.742583,"dihydro-4,4-dimethyl-2,3-furandione",8.743,0
+53,[0. 0. 1. 1.],217,M+H,7,9.06765,4-guanidinobutyric acid,0.0,1
+54,[1. 0. 0. 0.],199,M+H,7,13.29345,water-4-guanidinobutyric acid,0.0,1
+55,[0. 0. 1. 1.],161,M+H,7,7.0045,urethane,7.004,1
+56,[0. 0. 1. 1.],161,M+H,7,7.163717,urethane,7.004,1
+57,[0. 1. 0. 0.],129,M,8,10.58362,L-pyroglutamic acid,13.549,0
+58,[0. 0. 1. 1.],201,M+H,8,13.40303,L-pyroglutamic acid,13.549,1
+59,[0. 0. 1. 1.],273,M+H,8,13.54898,L-pyroglutamic acid,13.549,2
+60,[0. 0. 1. 1.],273,M+H,8,13.59873,L-pyroglutamic acid,13.549,2
+61,[0. 0. 1. 0.],348,M+H,8,16.23573,L-ornithine,16.926,3
+62,[1. 0. 0. 0.],420,M+H,8,16.92567,L-ornithine,16.926,4
+63,[0. 0. 1. 1.],385,M+H,8,17.71842,pyridoxine,17.718,3
+64,[0. 0. 1. 1.],441,M+H,8,25.0091,5′-deoxy-5′-(methylthio)adenosine,25.424,2
+65,[0. 0. 1. 1.],513,M+H,8,25.42372,5′-deoxy-5′-(methylthio)adenosine,25.424,3
+66,[1. 0. 0. 0.],207,M+H,8,10.46753,acetanilide,10.507,1
+67,[0. 0. 1. 0.],189,M+H,8,7.624883,water-acetanilide,10.507,1
+68,[0. 0. 1. 0.],295,M+H,8,21.0022,N-2-fluorenylacetamide,21.002,1
+69,[0. 0. 1. 1.],195,M+H,9,10.74295,nicotinic acid,10.743,1
+70,[0. 0. 1. 1.],272,M+H,9,15.10808,lauric acid,15.108,1
+71,[0. 0. 1. 1.],480,M+H,9,16.93903,citric acid,16.939,4
+72,[0. 0. 1. 1.],272,M+H,9,15.10808,D-erythrose-4-phosphate,0.0,1
+73,[0. 0. 1. 1.],368,M+H,9,19.31067,"3,5-dimethoxy-4-hydroxycinnamic acid",19.311,2
+74,[0. 0. 1. 1.],368,M+H,9,21.0753,"3,5-dimethoxy-4-hydroxycinnamic acid",19.311,2
+75,[0. 0. 1. 1.],400,M+H,9,25.0822,liquiritigenin,25.082,2
+76,[1. 0. 0. 0.],205,M+H,10,13.56102,4-hydroxybenzyl cyanide,13.594,1
+77,[1. 0. 0. 0.],205,M+H,10,13.5942,4-hydroxybenzyl cyanide,13.594,1
+78,[0. 0. 1. 0.],306,M+H,10,15.24935,"(1R,2S)-cis-1,2-dihydro-1,2-naphthalenediol",15.276,2
+79,[0. 0. 1. 0.],306,M+H,10,15.2759,"(1R,2S)-cis-1,2-dihydro-1,2-naphthalenediol",15.276,2
+80,[0. 0. 1. 0.],216,M+H,10,13.90598,"water-(1R,2S)-cis-1,2-dihydro-1,2-naphthalenediol",15.276,1
+81,[0. 0. 0. 1.],208,M+H,10,17.02725,hypoxanthine,16.905,1
+82,[0. 0. 1. 1.],280,M+H,10,16.90452,hypoxanthine,16.905,2
+83,[0. 0. 0. 1.],466,M+H,10,18.06215,L-gulonic acid γ-lactone,18.062,4
+84,[0. 0. 0. 1.],376,M+H,10,18.0522,water-L-gulonic acid γ-lactone,18.062,3
+85,[0. 0. 1. 0.],433,M+H,10,20.6892,spermidine,21.124,4
+86,[1. 0. 0. 0.],505,M+H,10,21.12372,spermidine,21.124,5
+87,[1. 0. 0. 0.],243,M,11,11.3027,cyclohexanamine,11.303,2
+88,[0. 0. 0. 1.],275,M+H,11,12.9678,trans-4-hydroxy-L-proline,13.621,2
+89,[0. 0. 1. 1.],275,M+H,11,13.01423,trans-4-hydroxy-L-proline,13.621,2
+90,[1. 0. 0. 0.],347,M+H,11,13.62125,trans-4-hydroxy-L-proline,13.621,3
+91,[0. 0. 1. 0.],204,M+H,11,15.41572,3-ureidopropionate,0.0,1
+92,[0. 0. 1. 1.],276,M+H,11,15.43232,3-ureidopropionate,0.0,2
+93,[0. 0. 1. 1.],186,M+H,11,11.07383,water-3-ureidopropionate,0.0,1
+94,[0. 0. 1. 1.],258,M+H,11,12.24803,water-3-ureidopropionate,0.0,2
+95,[0. 0. 1. 1.],480,M+H,11,16.93488,DL-isocitric acid,16.932,4
+96,[1. 0. 0. 0.],470,M+H,11,26.80285,D-(-)-mannitol,0.0,4
+97,[0. 0. 1. 0.],486,M+H,11,26.63368,"4',5,7-trihydroxyisoflavone",26.617,3
+98,[0. 0. 0. 1.],104,M-H,11,18.09252,water-salicylaldehyde,0.0,0
+99,[0. 0. 1. 1.],238,M+H,12,18.1382,6-methylmercaptopurine,18.138,1
+100,[1. 0. 0. 0.],311,M+H,12,15.56755,synephrine,17.01,2
+101,[1. 0. 0. 0.],311,M+H,12,15.57087,synephrine,17.01,2
+102,[1. 0. 0. 0.],383,M-H,12,16.98057,synephrine,17.01,3
+103,[1. 0. 0. 0.],383,M+H,12,17.01042,synephrine,17.01,3
+104,[0. 0. 0. 1.],222,M-H,13,6.590633,benzoylformic acid,0.0,1
+105,[0. 1. 0. 0.],204,M,13,6.51765,water-benzoylformic acid,0.0,1
+106,[0. 0. 1. 1.],260,M+H,13,11.3571,fumaric acid,11.357,2
+107,[0. 0. 1. 0.],254,M+H,13,16.88317,9-hydroxyfluorene,16.88,1
+108,[0. 0. 0. 1.],299,M+H,14,13.95042,3-(1-pyrazolyl)-L-alanine,0.0,2
+109,[1. 0. 0. 0.],173,M-H,14,6.570167,aniline-o-sulfonic acid,0.0,0
+110,[0. 0. 1. 0.],317,M+H,14,16.52438,aniline-o-sulfonic acid,0.0,2
+111,[0. 0. 0. 1.],299,M+H,14,13.95042,water-aniline-o-sulfonic acid,0.0,2
+112,[0. 0. 1. 0.],318,M+H,14,22.76357,N-acetyl-D-tryptophan,0.0,1
+113,[0. 0. 1. 1.],390,M+H,14,22.72377,N-acetyl-D-tryptophan,0.0,2
+114,[0. 0. 1. 0.],300,M,14,13.97032,water-N-acetyl-D-tryptophan,0.0,1
+115,[0. 0. 1. 1.],435,M+H,15,18.67737,D-(+)-Pantothenic acid,0.0,3
+116,[1. 0. 0. 0.],201,M+H,15,7.12435,water-D-(+)-Pantothenic acid,0.0,0
+117,[0. 0. 1. 1.],253,M+H,15,15.97405,methyl jasmonate,15.974,0
+118,[0. 0. 1. 0.],246,M+H,15,9.56565,dehydroascorbic acid,0.0,1
+119,[0. 0. 1. 1.],175,M+H,16,6.551084,"N,N-dimethylglycine",6.909,1
+120,[0. 0. 1. 0.],175,M+H,16,6.919283,"N,N-dimethylglycine",6.909,1
+121,[0. 0. 1. 0.],296,M,16,14.13368,2-hydroxyphenylacetic acid,14.12,2
+122,[0. 0. 1. 0.],296,M,16,14.13368,water-thymidine,0.0,1
+123,[0. 0. 1. 1.],650,M+H,16,25.85915,(-)-epicatechin,25.859,5
+124,[0. 0. 1. 1.],330,M+H,16,17.26822,"2,3-dihydroxybiphenyl",17.268,2
+125,[0. 0. 0. 1.],145,M-H,16,10.73047,water-N-acetyl-L-cysteine,0.0,0
+126,[0. 0. 0. 1.],145,M,16,11.47347,water-N-acetyl-L-cysteine,0.0,0
+127,[1. 0. 0. 0.],282,M,17,14.2164,2-(4-hydroxyphenyl)ethanol,14.216,2
+128,[1. 0. 0. 0.],239,M,17,15.51665,2-amino-3-methoxybenzoic acid,16.923,1
+129,[0. 0. 1. 0.],311,M+H,17,16.92305,2-amino-3-methoxybenzoic acid,16.923,2
+130,[0. 0. 1. 0.],334,M+H,17,20.44567,methoxytryptamine,22.668,2
+131,[1. 0. 0. 0.],406,M+H,17,22.66803,methoxytryptamine,22.668,3
+132,[0. 0. 1. 1.],431,M+H,17,19.50033,3-chloro-L-tyrosine,0.0,3
+133,[0. 0. 1. 1.],341,M+H,17,19.98462,water-3-chloro-L-tyrosine,0.0,2
+134,[0. 0. 1. 1.],413,M+H,17,19.56667,water-3-chloro-L-tyrosine,0.0,3
+135,[0. 0. 1. 1.],341,M+H,17,19.98462,N-acetyl-L-histidine,19.567,2
+136,[0. 0. 1. 1.],413,M+H,17,19.56667,N-acetyl-L-histidine,19.567,3
+137,[0. 0. 1. 1.],612,M+H,17,26.02147,uridine 5′-monophosphate,0.0,4
+138,[0. 0. 1. 1.],268,M,18,12.65507,orcinol,12.658,2
+139,[0. 0. 1. 1.],268,M+H,18,12.65838,orcinol,12.658,2
+140,[0. 0. 1. 0.],441,M+H,18,19.55435,dopamine,19.597,4
+141,[0. 0. 1. 0.],441,M+H,18,19.56762,dopamine,19.597,4
+142,[0. 0. 1. 0.],441,M+H,18,19.59747,dopamine,19.597,4
+143,[0. 0. 1. 0.],384,M-H,18,22.84147,arachidic acid,22.818,1
+144,[1. 0. 0. 0.],229,M+H,18,6.774083,water-biuret,0.0,2
+145,[0. 0. 1. 1.],235,M+H,18,8.60505,water-2-hydroxychalcone,0.0,0
+146,[0. 0. 1. 0.],148,M+H,18,14.57227,water-fluorene,0.0,0
