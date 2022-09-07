@@ -1,0 +1,243 @@
+,cilist,M,mtype,RT,Name,estimate RT,TMS,mix,shunyang,inchikey,MeOx
+0,[0. 0. 0. 1.],95,M,10.08493,water-epsilon-caprolactam,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,JBKVHLHDHHXQEQ-UHFFFAOYSA-N,0.0
+2,[0. 0. 1. 0.],167,M-H,7.219083,water-epsilon-caprolactam,0.0,1,1.0,CInofilter042822_Shunyang Mix 1,JBKVHLHDHHXQEQ-UHFFFAOYSA-N,0.0
+5,[0. 0. 0. 1.],147,M+H,6.6353,water-aniline,0.0,1,1.0,CInofilter042822_Shunyang Mix 1,PAYRUJLWNCNPSJ-UHFFFAOYSA-N,0.0
+8,[0. 0. 1. 1.],298,M+H,13.15313,dithiothreitol,0.0,2,1.0,CInofilter042822_Shunyang Mix 1,VHJLVAABSRFDPM-IMJSIDKUSA-N,0.0
+9,[0. 0. 1. 1.],298,M+H,19.9894,dithiothreitol,0.0,2,1.0,CInofilter042822_Shunyang Mix 1,VHJLVAABSRFDPM-IMJSIDKUSA-N,0.0
+10,[0. 0. 1. 1.],298,M-H,27.61842,dithiothreitol,0.0,2,1.0,CInofilter042822_Shunyang Mix 1,VHJLVAABSRFDPM-IMJSIDKUSA-N,0.0
+17,[1. 0. 0. 0.],370,M+H,8.87425,dithiothreitol,0.0,3,1.0,CInofilter042822_Shunyang Mix 1,VHJLVAABSRFDPM-IMJSIDKUSA-N,0.0
+18,[1. 0. 0. 0.],370,M-H,23.55845,dithiothreitol,0.0,3,1.0,CInofilter042822_Shunyang Mix 1,VHJLVAABSRFDPM-IMJSIDKUSA-N,0.0
+23,[0. 0. 0. 1.],280,M+H,8.81455,water-dithiothreitol,0.0,2,1.0,CInofilter042822_Shunyang Mix 1,VHJLVAABSRFDPM-IMJSIDKUSA-N,0.0
+26,[0. 1. 1. 0.],175,M,5.918833,guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+27,[0. 0. 1. 1.],175,M-H,8.13125,guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+28,[0. 0. 1. 0.],175,M-H,10.77818,guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+29,[0. 0. 1. 0.],175,M+H,11.11652,guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+30,[0. 0. 0. 1.],175,M,20.02257,guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+31,[0. 0. 1. 0.],175,M-H,22.22502,guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+44,[0. 1. 0. 0.],157,M+H,6.316867,water-guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+45,[0. 0. 0. 1.],157,M-H,6.794517,water-guanidinosuccinate,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,VVHOUVWJCQOYGG-REOHCLBHSA-N,0.0
+50,[0. 0. 0. 1.],222,M-H,16.5895,water-phosphoenolpyruvic acid,14.176,1,1.0,CInofilter042822_Shunyang Mix 1,DTBNBXWJWCWCIK-UHFFFAOYSA-N,0.0
+53,[1. 0. 0. 0.],265,M-H,21.85685,N-carbobenzyloxy-L-leucine,18.989,0,1.0,CInofilter042822_Shunyang Mix 1,USPFMEKVPDBMCG-LBPRGKRZSA-N,0.0
+56,[0. 1. 0. 0.],249,M+H,21.8469,water-adenosine,23.825,0,1.0,CInofilter042822_Shunyang Mix 1,OIRDTQYFTABQOQ-KQYNXXCUSA-N,0.0
+59,[0. 0. 0. 1.],321,M+H,22.9249,water-adenosine,23.825,1,1.0,CInofilter042822_Shunyang Mix 1,OIRDTQYFTABQOQ-KQYNXXCUSA-N,0.0
+62,[1. 0. 0. 0.],465,M+H,25.2899,water-adenosine,23.825,3,1.0,CInofilter042822_Shunyang Mix 1,OIRDTQYFTABQOQ-KQYNXXCUSA-N,0.0
+65,[0. 0. 0. 1.],114,M,11.74673,parabanic acid,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,ZFLIKDUSUDBGCD-UHFFFAOYSA-N,0.0
+68,[0. 0. 1. 1.],297,M+H,15.30583,dopamine,0.0,2,1.0,CInofilter042822_Shunyang Mix 1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,0.0
+71,[0. 0. 1. 1.],369,M+H,16.09527,dopamine,0.0,3,1.0,CInofilter042822_Shunyang Mix 1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,0.0
+74,[1. 0. 0. 0.],441,M+H,19.50843,dopamine,0.0,4,1.0,CInofilter042822_Shunyang Mix 1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,0.0
+75,[1. 0. 0. 0.],441,M-H,19.52502,dopamine,0.0,4,1.0,CInofilter042822_Shunyang Mix 1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,0.0
+76,[0. 0. 1. 0.],441,M+H,19.53165,dopamine,0.0,4,1.0,CInofilter042822_Shunyang Mix 1,VYFYYTLLBUKUHU-UHFFFAOYSA-N,0.0
+83,[0. 1. 0. 0.],258,M-H,9.6471,5-methyluridine,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,DWRXFEITVBNRMK-JXOAFFINSA-N,0.0
+84,[0. 0. 1. 1.],258,M+H,13.01713,5-methyluridine,0.0,0,1.0,CInofilter042822_Shunyang Mix 1,DWRXFEITVBNRMK-JXOAFFINSA-N,0.0
+89,[0. 0. 1. 0.],402,M,22.95143,5-methyluridine,0.0,2,1.0,CInofilter042822_Shunyang Mix 1,DWRXFEITVBNRMK-JXOAFFINSA-N,0.0
+92,[0. 0. 1. 0.],546,M+H,22.96138,5-methyluridine,0.0,4,1.0,CInofilter042822_Shunyang Mix 1,DWRXFEITVBNRMK-JXOAFFINSA-N,0.0
+95,[0. 0. 1. 0.],270,M+H,18.04178,"1,2,4-benzenetriol",0.0,2,10.0,CInofilter042822_Shunyang Mix 10,GGNQRNBDZQJCCN-UHFFFAOYSA-N,0.0
+96,[0. 0. 0. 1.],270,M-H,24.8847,"1,2,4-benzenetriol",0.0,2,10.0,CInofilter042822_Shunyang Mix 10,GGNQRNBDZQJCCN-UHFFFAOYSA-N,0.0
+101,[0. 0. 1. 0.],180,M+H,8.45245,"water-1,2,4-benzenetriol",0.0,1,10.0,CInofilter042822_Shunyang Mix 10,GGNQRNBDZQJCCN-UHFFFAOYSA-N,0.0
+102,[0. 0. 1. 1.],180,M+H,8.478983,"water-1,2,4-benzenetriol",0.0,1,10.0,CInofilter042822_Shunyang Mix 10,GGNQRNBDZQJCCN-UHFFFAOYSA-N,0.0
+107,[1. 0. 0. 0.],324,M+H,10.30332,"water-1,2,4-benzenetriol",0.0,3,10.0,CInofilter042822_Shunyang Mix 10,GGNQRNBDZQJCCN-UHFFFAOYSA-N,0.0
+110,[1. 0. 0. 0.],364,M+H,7.5237,EDTA,0.0,1,10.0,CInofilter042822_Shunyang Mix 10,KCXVZYZYPLLWCC-UHFFFAOYSA-N,0.0
+113,[0. 1. 1. 0.],434,M-H,28.90818,epicatechin,0.0,2,10.0,CInofilter042822_Shunyang Mix 10,PFTAWBLQPZVEMU-UKRRQHHQSA-N,0.0
+116,[0. 0. 1. 0.],196,M-H,9.845567,4-methylcatechol,11.51,1,10.0,CInofilter042822_Shunyang Mix 10,ZBCATMYQYDCTIZ-UHFFFAOYSA-N,0.0
+119,[0. 1. 0. 0.],178,M-H,9.64655,water-4-methylcatechol,11.51,1,10.0,CInofilter042822_Shunyang Mix 10,ZBCATMYQYDCTIZ-UHFFFAOYSA-N,0.0
+120,[0. 1. 1. 0.],178,M-H,13.77617,water-4-methylcatechol,11.51,1,10.0,CInofilter042822_Shunyang Mix 10,ZBCATMYQYDCTIZ-UHFFFAOYSA-N,0.0
+125,[0. 0. 1. 1.],356,M-H,20.98725,stearic acid,20.675,1,10.0,CInofilter042822_Shunyang Mix 10,QIQXTHQIDYTFRH-UHFFFAOYSA-N,0.0
+128,[0. 0. 1. 0.],180,M+H,8.45245,o-cresol,0.0,1,10.0,CInofilter042822_Shunyang Mix 10,QWVGKYWNOKOFNN-UHFFFAOYSA-N,0.0
+129,[0. 0. 1. 1.],180,M+H,8.478983,o-cresol,0.0,1,10.0,CInofilter042822_Shunyang Mix 10,QWVGKYWNOKOFNN-UHFFFAOYSA-N,0.0
+134,[0. 0. 1. 0.],162,M+H,7.556867,water-o-cresol,0.0,1,10.0,CInofilter042822_Shunyang Mix 10,QWVGKYWNOKOFNN-UHFFFAOYSA-N,0.0
+137,[0. 0. 0. 1.],112,M-H,6.959816,water-agmatine,0.0,0,10.0,CInofilter042822_Shunyang Mix 10,QYPPJABKJHAVHS-UHFFFAOYSA-N,0.0
+140,[0. 1. 0. 0.],256,M-H,6.803916,water-agmatine,0.0,2,10.0,CInofilter042822_Shunyang Mix 10,QYPPJABKJHAVHS-UHFFFAOYSA-N,0.0
+143,[0. 0. 1. 1.],328,M-H,19.18945,water-agmatine,0.0,3,10.0,CInofilter042822_Shunyang Mix 10,QYPPJABKJHAVHS-UHFFFAOYSA-N,0.0
+146,[0. 0. 0. 1.],224,M+H,10.31737,mandelic acid,0.0,1,2.0,CInofilter042822_Shunyang Mix 2,,0.0
+149,[0. 0. 1. 0.],278,M-H,19.6911,water-mandelic acid,0.0,2,2.0,CInofilter042822_Shunyang Mix 2,,0.0
+150,[0. 1. 0. 0.],278,M-H,19.69442,water-mandelic acid,0.0,2,2.0,CInofilter042822_Shunyang Mix 2,,0.0
+151,[0. 1. 0. 0.],278,M-H,25.70143,water-mandelic acid,0.0,2,2.0,CInofilter042822_Shunyang Mix 2,,0.0
+158,[0. 1. 0. 0.],112,M-H,9.753484,"1,2-cyclohexanedione",0.0,0,2.0,CInofilter042822_Shunyang Mix 2,OILAIQUEIWYQPH-UHFFFAOYSA-N,0.0
+161,[0. 1. 0. 1.],94,M+H,23.8572,"water-1,2-cyclohexanedione",0.0,0,2.0,CInofilter042822_Shunyang Mix 2,OILAIQUEIWYQPH-UHFFFAOYSA-N,0.0
+163,[0. 1. 1. 0.],205,M,9.789967,water-glucuronic acid,0.0,0,2.0,CInofilter042822_Shunyang Mix 2,IAJILQKETJEXLJ-QTBDOELSSA-N,1.0
+166,[0. 1. 0. 0.],430,M,28.92885,salicin,0.0,2,2.0,CInofilter042822_Shunyang Mix 2,NGFMICBWJRZIBI-UJPOAAIJSA-N,0.0
+169,[0. 1. 0. 0.],268,M-H,6.30715,water-salicin,0.0,0,2.0,CInofilter042822_Shunyang Mix 2,NGFMICBWJRZIBI-UJPOAAIJSA-N,0.0
+172,[0. 0. 1. 0.],162,M+H,9.780017,water-m-cresol,8.03,1,2.0,CInofilter042822_Shunyang Mix 2,RLSSMJSEOOYNOY-UHFFFAOYSA-N,0.0
+175,[0. 1. 0. 0.],267,M-H,17.1304,methyl L-tyrosinate,16.205,1,2.0,CInofilter042822_Shunyang Mix 2,MWZPENIJLUWBSY-VIFPVBQESA-N,0.0
+178,[0. 0. 1. 0.],162,M+H,9.780017,"butane-2,3-diol",0.0,1,2.0,CInofilter042822_Shunyang Mix 2,OWBTYPJTUOEWEK-QWWZWVQMSA-N,0.0
+179,[0. 1. 0. 0.],162,M+H,11.63752,"butane-2,3-diol",0.0,1,2.0,CInofilter042822_Shunyang Mix 2,OWBTYPJTUOEWEK-QWWZWVQMSA-N,0.0
+180,[0. 0. 1. 0.],162,M+H,13.64095,"butane-2,3-diol",0.0,1,2.0,CInofilter042822_Shunyang Mix 2,OWBTYPJTUOEWEK-QWWZWVQMSA-N,0.0
+181,[1. 0. 0. 0.],162,M+H,19.08077,"butane-2,3-diol",0.0,1,2.0,CInofilter042822_Shunyang Mix 2,OWBTYPJTUOEWEK-QWWZWVQMSA-N,0.0
+190,[0. 0. 1. 0.],72,M,6.227533,"water-butane-2,3-diol",0.0,0,2.0,CInofilter042822_Shunyang Mix 2,OWBTYPJTUOEWEK-QWWZWVQMSA-N,0.0
+192,[0. 1. 0. 0.],258,M+H,14.71565,"5,6-dihydrouracil",0.0,2,2.0,CInofilter042822_Shunyang Mix 2,OIVLITBTBDPEFK-UHFFFAOYSA-N,0.0
+195,[0. 0. 1. 0.],188,M-H,8.929883,diacetone alcohol,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,SWXVUIWOUIDPGS-UHFFFAOYSA-N,0.0
+198,[0. 0. 0. 1.],117,M-H,6.505183,N-acetylglycine,0.0,0,3.0,CInofilter042822_Shunyang Mix 3,OKJIRPAQVSHGFK-UHFFFAOYSA-N,0.0
+201,[1. 0. 0. 0.],189,M-H,6.425583,N-acetylglycine,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,OKJIRPAQVSHGFK-UHFFFAOYSA-N,0.0
+202,[0. 0. 0. 1.],189,M+H,7.5832,N-acetylglycine,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,OKJIRPAQVSHGFK-UHFFFAOYSA-N,0.0
+203,[0. 0. 1. 1.],189,M+H,7.599783,N-acetylglycine,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,OKJIRPAQVSHGFK-UHFFFAOYSA-N,0.0
+210,[0. 0. 1. 0.],99,M+H,12.98985,water-N-acetylglycine,0.0,0,3.0,CInofilter042822_Shunyang Mix 3,OKJIRPAQVSHGFK-UHFFFAOYSA-N,0.0
+212,[0. 0. 0. 1.],112,M-H,7.00605,2-furoic acid,8.073,0,3.0,CInofilter042822_Shunyang Mix 3,SMNDYUVBFMFKNZ-UHFFFAOYSA-N,0.0
+213,[0. 0. 0. 1.],112,M-H,7.108867,2-furoic acid,8.073,0,3.0,CInofilter042822_Shunyang Mix 3,SMNDYUVBFMFKNZ-UHFFFAOYSA-N,0.0
+216,[0. 0. 1. 1.],184,M+H,9.692783,2-furoic acid,8.073,1,3.0,CInofilter042822_Shunyang Mix 3,SMNDYUVBFMFKNZ-UHFFFAOYSA-N,0.0
+219,[0. 1. 0. 0.],94,M-H,8.087367,water-2-furoic acid,8.073,0,3.0,CInofilter042822_Shunyang Mix 3,SMNDYUVBFMFKNZ-UHFFFAOYSA-N,0.0
+221,[0. 1. 0. 0.],166,M+H,10.9466,water-2-furoic acid,8.073,1,3.0,CInofilter042822_Shunyang Mix 3,SMNDYUVBFMFKNZ-UHFFFAOYSA-N,0.0
+224,[1. 0. 0. 0.],187,M,11.0627,maleamic acid,12.152,1,3.0,CInofilter042822_Shunyang Mix 3,FSQQTNAZHBEJLS-UPHRSURJSA-N,0.0
+227,[1. 0. 0. 0.],365,M-H,13.91528,DL-threo-beta-hydroxyaspartic acid ,14.885,3,3.0,CInofilter042822_Shunyang Mix 3,YYLQUHNPNCGKJQ-LWMBPPNESA-N,0.0
+230,[0. 1. 0. 1.],258,M-H,17.23888,3-phosphoglyceric acid,16.504,1,3.0,CInofilter042822_Shunyang Mix 3,OSJPPGNTCRNQQC-UHFFFAOYSA-N,0.0
+233,[1. 0. 0. 0.],474,M,18.34343,3-phosphoglyceric acid,16.504,4,3.0,CInofilter042822_Shunyang Mix 3,OSJPPGNTCRNQQC-UHFFFAOYSA-N,0.0
+234,[1. 0. 0. 0.],474,M,18.88077,3-phosphoglyceric acid,16.504,4,3.0,CInofilter042822_Shunyang Mix 3,OSJPPGNTCRNQQC-UHFFFAOYSA-N,0.0
+239,[1. 0. 0. 0.],253,M,16.92377,water-(-)-Willardiine,19.372,1,3.0,CInofilter042822_Shunyang Mix 3,FACUYWPMDKTVFU-BYPYZUCNSA-N,0.0
+242,[0. 0. 1. 1.],328,M-H,19.19588,phenyl beta-D-glucopyranoside,21.186,1,3.0,CInofilter042822_Shunyang Mix 3,NEZJDVYDSZTRFS-RMPHRYRLSA-N,0.0
+243,[0. 0. 0. 1.],328,M-H,19.99195,phenyl beta-D-glucopyranoside,21.186,1,3.0,CInofilter042822_Shunyang Mix 3,NEZJDVYDSZTRFS-RMPHRYRLSA-N,0.0
+244,[0. 0. 1. 0.],328,M-H,20.997,phenyl beta-D-glucopyranoside,21.186,1,3.0,CInofilter042822_Shunyang Mix 3,NEZJDVYDSZTRFS-RMPHRYRLSA-N,0.0
+251,[1. 0. 0. 0.],472,M+H,19.49773,phenyl beta-D-glucopyranoside,21.186,3,3.0,CInofilter042822_Shunyang Mix 3,NEZJDVYDSZTRFS-RMPHRYRLSA-N,0.0
+254,[0. 0. 1. 0.],188,M-H,8.929883,azelaic acid,0.0,0,3.0,CInofilter042822_Shunyang Mix 3,BDJRBEYXGGNYIS-UHFFFAOYSA-N,0.0
+257,[0. 0. 0. 1.],260,M-H,13.3116,azelaic acid,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,BDJRBEYXGGNYIS-UHFFFAOYSA-N,0.0
+260,[0. 0. 1. 1.],332,M+H,16.68827,azelaic acid,0.0,2,3.0,CInofilter042822_Shunyang Mix 3,BDJRBEYXGGNYIS-UHFFFAOYSA-N,0.0
+263,[0. 0. 1. 0.],242,M+H,15.92868,water-azelaic acid,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,BDJRBEYXGGNYIS-UHFFFAOYSA-N,0.0
+266,[0. 0. 1. 0.],340,M+H,17.06308,heptadecenoic acid,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,GDTXICBNEOEPAZ-FPLPWBNLSA-N,0.0
+267,[0. 0. 1. 1.],340,M+H,19.9621,heptadecenoic acid,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,GDTXICBNEOEPAZ-FPLPWBNLSA-N,0.0
+272,[1. 0. 0. 0.],488,M,26.6889,tocopherol beta,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,VLKZOEOYAKHREP-UHFFFAOYSA-N,0.0
+273,[0. 0. 1. 0.],488,M,26.71543,tocopherol beta,0.0,1,3.0,CInofilter042822_Shunyang Mix 3,VLKZOEOYAKHREP-UHFFFAOYSA-N,0.0
+278,[1. 0. 0. 0.],402,M+H,17.58843,"2,4,6-tribromophenol",0.0,1,4.0,CInofilter042822_Shunyang Mix 4,BSWWXRFVMJHFBN-UHFFFAOYSA-N,0.0
+279,[1. 0. 0. 0.],402,M+H,17.9334,"2,4,6-tribromophenol",0.0,1,4.0,CInofilter042822_Shunyang Mix 4,BSWWXRFVMJHFBN-UHFFFAOYSA-N,0.0
+284,[1. 0. 0. 0.],384,M-H,23.37655,"water-2,4,6-tribromophenol",0.0,1,4.0,CInofilter042822_Shunyang Mix 4,BSWWXRFVMJHFBN-UHFFFAOYSA-N,0.0
+287,[1. 0. 0. 0.],384,M-H,23.37655,dehydrocholesterol,0.0,0,4.0,CInofilter042822_Shunyang Mix 4,UCTLRSWJYQTBFZ-DDPQNLDTSA-N,0.0
+290,[0. 0. 1. 0.],438,M-H,27.61232,water-dehydrocholesterol,0.0,1,4.0,CInofilter042822_Shunyang Mix 4,UCTLRSWJYQTBFZ-DDPQNLDTSA-N,0.0
+293,[1. 0. 0. 0.],176,M-H,10.95118,L-canavanine,9.22,0,4.0,CInofilter042822_Shunyang Mix 4,FSBIGDSBMBYOPN-VKHMYHEASA-N,0.0
+296,[0. 0. 1. 0.],158,M+H,10.58632,water-L-canavanine,9.22,0,4.0,CInofilter042822_Shunyang Mix 4,FSBIGDSBMBYOPN-VKHMYHEASA-N,0.0
+299,[0. 0. 1. 0.],217,M+H,15.03437,4-acetamidobutyric acid,12.863,1,4.0,CInofilter042822_Shunyang Mix 4,UZTFMUBKZQVKLK-UHFFFAOYSA-N,0.0
+302,[0. 1. 1. 0.],289,M-H,15.45232,4-acetamidobutyric acid,12.863,2,4.0,CInofilter042822_Shunyang Mix 4,UZTFMUBKZQVKLK-UHFFFAOYSA-N,0.0
+305,[0. 0. 1. 0.],199,M+H,10.07883,water-4-acetamidobutyric acid,12.863,1,4.0,CInofilter042822_Shunyang Mix 4,UZTFMUBKZQVKLK-UHFFFAOYSA-N,0.0
+308,[1. 0. 0. 0.],271,M+H,10.16175,water-4-acetamidobutyric acid,12.863,2,4.0,CInofilter042822_Shunyang Mix 4,UZTFMUBKZQVKLK-UHFFFAOYSA-N,0.0
+311,[1. 0. 0. 0.],420,M+H,16.41423,water-D-ribose,15.113,4,4.0,CInofilter042822_Shunyang Mix 4,SRBFZHDQGSBBOR-SOOFDHNKSA-N,0.0
+314,[0. 1. 0. 0.],374,M-H,19.68145,abietic acid ,22.343,1,4.0,CInofilter042822_Shunyang Mix 4,RSWGJHLUYNHPMX-ONCXSQPRSA-N,0.0
+317,[0. 0. 1. 1.],356,M-H,20.99497,water-abietic acid ,22.343,1,4.0,CInofilter042822_Shunyang Mix 4,RSWGJHLUYNHPMX-ONCXSQPRSA-N,0.0
+320,[0. 0. 0. 1.],101,M+H,10.3276,butyraldehyde,0.0,0,4.0,CInofilter042822_Shunyang Mix 4,ZTQSAGDEMFDKMZ-UHFFFAOYSA-N,1.0
+323,[0. 1. 0. 0.],251,M-H,19.20712,isoxanthopterin,0.0,1,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+326,[0. 0. 1. 1.],395,M+H,20.01977,isoxanthopterin,0.0,3,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+329,[0. 1. 0. 1.],161,M-H,8.118517,water-isoxanthopterin,0.0,0,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+332,[0. 0. 1. 0.],233,M,7.846517,water-isoxanthopterin,0.0,1,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+333,[0. 0. 1. 1.],233,M+H,8.473416,water-isoxanthopterin,0.0,1,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+338,[1. 0. 0. 0.],305,M-H,11.6378,water-isoxanthopterin,0.0,2,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+339,[1. 0. 0. 0.],305,M+H,13.64125,water-isoxanthopterin,0.0,2,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+340,[0. 0. 1. 0.],305,M+H,13.64788,water-isoxanthopterin,0.0,2,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+347,[0. 0. 1. 0.],377,M+H,15.71767,water-isoxanthopterin,0.0,3,4.0,CInofilter042822_Shunyang Mix 4,GLKCOBIIZKYKFN-UHFFFAOYSA-N,0.0
+350,[0. 0. 0. 1.],272,M+H,17.7775,arbutin,0.0,0,4.0,CInofilter042822_Shunyang Mix 4,BJRNKVDFDLYUGJ-RMPHRYRLSA-N,0.0
+353,[0. 0. 1. 0.],416,M+H,19.21707,arbutin,0.0,2,4.0,CInofilter042822_Shunyang Mix 4,BJRNKVDFDLYUGJ-RMPHRYRLSA-N,0.0
+354,[1. 0. 0. 0.],416,M,19.97665,arbutin,0.0,2,4.0,CInofilter042822_Shunyang Mix 4,BJRNKVDFDLYUGJ-RMPHRYRLSA-N,0.0
+359,[0. 0. 1. 0.],254,M-H,18.15232,water-arbutin,0.0,0,4.0,CInofilter042822_Shunyang Mix 4,BJRNKVDFDLYUGJ-RMPHRYRLSA-N,0.0
+362,[0. 0. 1. 0.],326,M+H,21.7446,water-arbutin,0.0,1,4.0,CInofilter042822_Shunyang Mix 4,BJRNKVDFDLYUGJ-RMPHRYRLSA-N,0.0
+365,[0. 0. 1. 0.],379,M+H,12.97412,water-ergosterol,0.0,0,5.0,CInofilter042822_Shunyang Mix 5,BTCAEOLDEYPGGE-LPWCLQGBSA-N,0.0
+368,[0. 1. 1. 1.],131,M+H,9.093266,water-acetophenone,0.0,0,5.0,CInofilter042822_Shunyang Mix 5,KWOLFJPFCHCOCG-UHFFFAOYSA-N,1.0
+371,[0. 1. 0. 0.],207,M-H,12.98075,L-homocysteine,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+374,[0. 0. 1. 1.],279,M-H,23.03115,L-homocysteine,0.0,2,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+377,[0. 1. 1. 0.],117,M-H,11.13322,water-L-homocysteine,0.0,0,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+380,[1. 0. 0. 0.],189,M+H,6.336867,water-L-homocysteine,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+381,[1. 0. 0. 0.],189,M-H,6.376667,water-L-homocysteine,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+382,[0. 0. 1. 0.],189,M-H,7.119667,water-L-homocysteine,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+383,[0. 0. 1. 0.],189,M+H,7.570783,water-L-homocysteine,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,FFFHZYDWPBMWHY-UHFFFAOYSA-N,0.0
+392,[0. 0. 1. 1.],229,M+H,15.30263,tranexamic acid,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,IIDJRNMFWXDHID-UHFFFAOYSA-N,0.0
+395,[1. 0. 0. 0.],283,M+H,18.31775,water-tranexamic acid,0.0,2,5.0,CInofilter042822_Shunyang Mix 5,IIDJRNMFWXDHID-UHFFFAOYSA-N,0.0
+398,[0. 0. 1. 0.],194,M-H,27.62515,pinitol,0.0,0,5.0,CInofilter042822_Shunyang Mix 5,DSCFFEYYQKSRSV-KLJZZCKASA-N,0.0
+401,[0. 0. 1. 0.],410,M+H,26.29505,pinitol,0.0,3,5.0,CInofilter042822_Shunyang Mix 5,DSCFFEYYQKSRSV-KLJZZCKASA-N,0.0
+404,[0. 0. 1. 0.],270,M+H,18.04577,octadecanol,0.0,0,5.0,CInofilter042822_Shunyang Mix 5,GLDOVTGHNKAZLK-UHFFFAOYSA-N,0.0
+407,[1. 0. 0. 0.],342,M-H,20.23495,octadecanol,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,GLDOVTGHNKAZLK-UHFFFAOYSA-N,0.0
+410,[0. 0. 1. 1.],252,M+H,9.8429,water-octadecanol,0.0,0,5.0,CInofilter042822_Shunyang Mix 5,GLDOVTGHNKAZLK-UHFFFAOYSA-N,0.0
+413,[0. 1. 0. 0.],412,M-H,24.88535,water-2-stearoylglycerol,0.0,1,5.0,CInofilter042822_Shunyang Mix 5,VBICKXHEKHSIBG-UHFFFAOYSA-N,0.0
+416,[0. 0. 1. 1.],248,M+H,8.3873,2-hydroxybutanoic acid 1,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,AFENDNXGAFYKQO-UHFFFAOYSA-N,0.0
+417,[0. 0. 1. 0.],248,M+H,17.61508,2-hydroxybutanoic acid 1,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,AFENDNXGAFYKQO-UHFFFAOYSA-N,0.0
+422,[0. 0. 1. 1.],356,M-H,20.99175,1-monoolein,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,RZRNAYUHWVFMIP-KTKRTIGZSA-N,0.0
+423,[0. 0. 0. 1.],356,M,25.03182,1-monoolein,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,RZRNAYUHWVFMIP-KTKRTIGZSA-N,0.0
+428,[1. 0. 0. 0.],500,M+H,25.02518,1-monoolein,0.0,2,6.0,CInofilter042822_Shunyang Mix 6,RZRNAYUHWVFMIP-KTKRTIGZSA-N,0.0
+431,[0. 0. 1. 1.],410,M+H,26.29558,water-1-monoolein,0.0,1,6.0,CInofilter042822_Shunyang Mix 6,RZRNAYUHWVFMIP-KTKRTIGZSA-N,0.0
+434,[0. 0. 1. 1.],520,M-H,28.53122,lithocholic acid,0.0,2,6.0,CInofilter042822_Shunyang Mix 6,SMEROWZSTRWXGI-HVATVPOCSA-N,0.0
+437,[0. 1. 1. 0.],233,M+H,14.69948,L-carnitine,15.426,1,6.0,CInofilter042822_Shunyang Mix 6,PHIQHXFUZVPYII-ZCFIWIBFSA-N,0.0
+440,[0. 1. 0. 0.],305,M+H,17.43265,L-carnitine,15.426,2,6.0,CInofilter042822_Shunyang Mix 6,PHIQHXFUZVPYII-ZCFIWIBFSA-N,0.0
+443,[0. 0. 0. 1.],143,M-H,14.08585,water-L-carnitine,15.426,0,6.0,CInofilter042822_Shunyang Mix 6,PHIQHXFUZVPYII-ZCFIWIBFSA-N,0.0
+446,[0. 0. 0. 1.],218,M-H,14.98805,water-lumazine,17.016,1,6.0,CInofilter042822_Shunyang Mix 6,UYEUUXMDVNYCAM-UHFFFAOYSA-N,0.0
+449,[1. 0. 0. 0.],524,M-H,18.15907,water-D-sorbitol,17.898,5,6.0,CInofilter042822_Shunyang Mix 6,FBPFZTCFMRRESA-JGWLITMVSA-N,0.0
+452,[0. 0. 1. 1.],298,M+H,19.97345,water-biotin,22.566,1,6.0,CInofilter042822_Shunyang Mix 6,YBJHBAHKTGYVGT-ZKWXMUAHSA-N,0.0
+455,[0. 0. 1. 0.],326,M-H,27.61573,galactitol,0.0,2,6.0,CInofilter042822_Shunyang Mix 6,FBPFZTCFMRRESA-GUCUJZIJSA-N,0.0
+458,[1. 0. 0. 0.],236,M+H,6.3507,water-galactitol,0.0,1,6.0,CInofilter042822_Shunyang Mix 6,FBPFZTCFMRRESA-GUCUJZIJSA-N,0.0
+461,[0. 0. 1. 1.],308,M+H,12.39087,water-galactitol,0.0,2,6.0,CInofilter042822_Shunyang Mix 6,FBPFZTCFMRRESA-GUCUJZIJSA-N,0.0
+464,[1. 0. 0. 0.],524,M-H,18.15907,water-galactitol,0.0,5,6.0,CInofilter042822_Shunyang Mix 6,FBPFZTCFMRRESA-GUCUJZIJSA-N,0.0
+467,[0. 0. 0. 1.],205,M+H,11.7507,indole-3-lactate,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,XGILAAMKEQUXLS-UHFFFAOYSA-N,0.0
+470,[0. 0. 1. 1.],277,M-H,13.0211,indole-3-lactate,0.0,1,6.0,CInofilter042822_Shunyang Mix 6,XGILAAMKEQUXLS-UHFFFAOYSA-N,0.0
+473,[1. 0. 0. 0.],349,M,20.1194,indole-3-lactate,0.0,2,6.0,CInofilter042822_Shunyang Mix 6,XGILAAMKEQUXLS-UHFFFAOYSA-N,0.0
+476,[1. 0. 0. 0.],421,M,20.38807,indole-3-lactate,0.0,3,6.0,CInofilter042822_Shunyang Mix 6,XGILAAMKEQUXLS-UHFFFAOYSA-N,0.0
+479,[0. 0. 1. 1.],187,M,6.397133,water-indole-3-lactate,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,XGILAAMKEQUXLS-UHFFFAOYSA-N,0.0
+480,[1. 0. 0. 0.],187,M,11.05413,water-indole-3-lactate,0.0,0,6.0,CInofilter042822_Shunyang Mix 6,XGILAAMKEQUXLS-UHFFFAOYSA-N,0.0
+485,[0. 0. 1. 1.],248,M+H,8.383483,2-hydroxybutanoic acid 2,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,AFENDNXGAFYKQO-UHFFFAOYSA-N,0.0
+488,[0. 0. 0. 1.],230,M,6.6686,water-2-hydroxybutanoic acid 2,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,AFENDNXGAFYKQO-UHFFFAOYSA-N,0.0
+489,[0. 0. 0. 1.],230,M-H,18.19172,water-2-hydroxybutanoic acid 2,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,AFENDNXGAFYKQO-UHFFFAOYSA-N,0.0
+494,[0. 0. 0. 1.],162,M-H,8.081634,3-(1-methyl-2-pyrrolidinyl)-pyridine,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,SNICXCGAKADSCV-JTQLQIEISA-N,0.0
+495,[0. 1. 1. 0.],162,M+H,12.8846,3-(1-methyl-2-pyrrolidinyl)-pyridine,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,SNICXCGAKADSCV-JTQLQIEISA-N,0.0
+496,[0. 1. 0. 0.],162,M+H,26.07945,3-(1-methyl-2-pyrrolidinyl)-pyridine,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,SNICXCGAKADSCV-JTQLQIEISA-N,0.0
+503,[0. 0. 0. 1.],144,M,12.6889,water-3-(1-methyl-2-pyrrolidinyl)-pyridine,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,SNICXCGAKADSCV-JTQLQIEISA-N,0.0
+506,[0. 0. 1. 1.],458,M+H,18.3045,gallic acid,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,LNTHITQWFMADLM-UHFFFAOYSA-N,0.0
+509,[0. 0. 1. 0.],608,M-H,28.64015,deoxycholic acid,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,FHHPUSMSKHSNKW-SMOYURAASA-M,0.0
+512,[0. 0. 0. 1.],112,M-H,10.99062,"1,4-cyclohexanedione",10.212,0,7.0,CInofilter042822_Shunyang Mix 7,DCZFGQYXRKMVFG-UHFFFAOYSA-N,0.0
+515,[0. 0. 0. 1.],256,M-H,9.6771,"1,4-cyclohexanedione",10.212,2,7.0,CInofilter042822_Shunyang Mix 7,DCZFGQYXRKMVFG-UHFFFAOYSA-N,0.0
+516,[0. 0. 1. 0.],256,M-H,10.32722,"1,4-cyclohexanedione",10.212,2,7.0,CInofilter042822_Shunyang Mix 7,DCZFGQYXRKMVFG-UHFFFAOYSA-N,0.0
+521,[0. 0. 1. 1.],417,M+H,19.60142,water-pantothenic acid,17.903,3,7.0,CInofilter042822_Shunyang Mix 7,GHOKWGTUZJEAQD-ZETCQYMHSA-N,0.0
+524,[0. 0. 1. 0.],489,M+H,19.97292,water-pantothenic acid,17.903,4,7.0,CInofilter042822_Shunyang Mix 7,GHOKWGTUZJEAQD-ZETCQYMHSA-N,0.0
+527,[0. 0. 0. 1.],258,M+H,18.37415,"water-1,4-dihydroxy-2-naphthoic acid",20.122,1,7.0,CInofilter042822_Shunyang Mix 7,VOJUXHHACRXLTD-UHFFFAOYSA-N,0.0
+528,[0. 0. 0. 1.],258,M+H,18.70585,"water-1,4-dihydroxy-2-naphthoic acid",20.122,1,7.0,CInofilter042822_Shunyang Mix 7,VOJUXHHACRXLTD-UHFFFAOYSA-N,0.0
+533,[0. 0. 0. 1.],117,M+H,5.955467,glycocyamine,0.0,0,7.0,CInofilter042822_Shunyang Mix 7,BPMFZUMJYQTVII-UHFFFAOYSA-N,0.0
+536,[1. 0. 0. 0.],189,M-H,6.360133,glycocyamine,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,BPMFZUMJYQTVII-UHFFFAOYSA-N,0.0
+537,[0. 0. 1. 0.],189,M+H,7.554234,glycocyamine,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,BPMFZUMJYQTVII-UHFFFAOYSA-N,0.0
+542,[0. 0. 0. 1.],171,M-H,6.57905,water-glycocyamine,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,BPMFZUMJYQTVII-UHFFFAOYSA-N,0.0
+543,[0. 0. 1. 0.],171,M+H,6.953866,water-glycocyamine,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,BPMFZUMJYQTVII-UHFFFAOYSA-N,0.0
+544,[0. 0. 1. 0.],171,M+H,7.786433,water-glycocyamine,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,BPMFZUMJYQTVII-UHFFFAOYSA-N,0.0
+551,[0. 0. 1. 0.],175,M-H,8.111484,biuret,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+554,[0. 0. 0. 1.],157,M+H,6.253983,water-biuret,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+555,[0. 0. 0. 1.],157,M-H,6.741583,water-biuret,0.0,1,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+560,[1. 0. 0. 0.],229,M,6.685184,water-biuret,0.0,2,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+561,[0. 0. 1. 0.],229,M+H,8.685317,water-biuret,0.0,2,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+562,[0. 0. 1. 0.],229,M+H,13.15327,water-biuret,0.0,2,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+569,[0. 0. 1. 1.],301,M+H,16.08877,water-biuret,0.0,3,7.0,CInofilter042822_Shunyang Mix 7,OHJMTUPIZMNBFR-UHFFFAOYSA-N,0.0
+572,[1. 0. 0. 0.],265,M,8.0561,phenylethylamine,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,BHHGXPLMPWCGHP-UHFFFAOYSA-N,0.0
+573,[0. 0. 1. 0.],265,M,8.868767,phenylethylamine,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,BHHGXPLMPWCGHP-UHFFFAOYSA-N,0.0
+574,[1. 0. 0. 0.],265,M+H,14.1162,phenylethylamine,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,BHHGXPLMPWCGHP-UHFFFAOYSA-N,0.0
+581,[0. 0. 0. 1.],175,M+H,10.59358,water-phenylethylamine,0.0,1,8.0,CInofilter042822_Shunyang Mix 8,BHHGXPLMPWCGHP-UHFFFAOYSA-N,0.0
+584,[0. 1. 0. 1.],174,M+H,7.71445,dehydroascorbic acid,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,SBJKKFFYIZUCET-JLAZNSOCSA-N,0.0
+587,[0. 1. 0. 0.],277,M+H,9.887067,xanthurenic acid,0.0,1,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+590,[0. 0. 1. 1.],421,M+H,15.69508,xanthurenic acid,0.0,3,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+591,[0. 0. 1. 1.],421,M+H,21.11833,xanthurenic acid,0.0,3,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+592,[0. 0. 1. 1.],421,M+H,21.12165,xanthurenic acid,0.0,3,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+599,[1. 0. 0. 0.],259,M-H,7.266667,water-xanthurenic acid,0.0,1,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+602,[0. 0. 1. 1.],331,M+H,14.35172,water-xanthurenic acid,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+603,[0. 0. 1. 0.],331,M+H,14.62702,water-xanthurenic acid,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+604,[0. 0. 1. 1.],331,M+H,15.31363,water-xanthurenic acid,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,FBZONXHGGPHHIY-UHFFFAOYSA-N,0.0
+611,[0. 0. 1. 0.],392,M+H,16.45798,chenodeoxycholic acid,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,RUDATBOHQWOJDD-BSWAIDMHSA-N,0.0
+614,[1. 0. 0. 0.],374,M,10.19223,water-chenodeoxycholic acid,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,RUDATBOHQWOJDD-BSWAIDMHSA-N,0.0
+615,[0. 0. 1. 1.],374,M+H,19.43332,water-chenodeoxycholic acid,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,RUDATBOHQWOJDD-BSWAIDMHSA-N,0.0
+620,[0. 0. 1. 1.],374,M+H,19.43332,allantoin,17.293,3,8.0,CInofilter042822_Shunyang Mix 8,POJWUDADGALRAB-UHFFFAOYSA-N,0.0
+623,[1. 0. 0. 0.],356,M+H,16.31203,water-allantoin,17.293,3,8.0,CInofilter042822_Shunyang Mix 8,POJWUDADGALRAB-UHFFFAOYSA-N,0.0
+626,[0. 0. 1. 0.],392,M+H,16.45798,L-ascorbic acid,17.939,3,8.0,CInofilter042822_Shunyang Mix 8,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,0.0
+629,[0. 0. 1. 1.],374,M+H,19.43332,water-L-ascorbic acid,17.939,3,8.0,CInofilter042822_Shunyang Mix 8,CIWBSHSKHKDKBQ-JLAZNSOCSA-N,0.0
+632,[0. 0. 1. 1.],161,M+H,8.10255,lactamide,0.0,1,8.0,CInofilter042822_Shunyang Mix 8,SXQFCVDSOLSHOQ-UHFFFAOYSA-N,0.0
+635,[0. 0. 1. 1.],233,M+H,8.955,lactamide,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,SXQFCVDSOLSHOQ-UHFFFAOYSA-N,0.0
+636,[0. 0. 0. 1.],233,M+H,17.4,lactamide,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,SXQFCVDSOLSHOQ-UHFFFAOYSA-N,0.0
+641,[0. 0. 1. 0.],71,M+H,6.8421,water-lactamide,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,SXQFCVDSOLSHOQ-UHFFFAOYSA-N,0.0
+643,[0. 0. 1. 0.],130,M+H,6.848733,mevalonolactone,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,JYVXNLLUYHCIIH-UHFFFAOYSA-N,0.0
+646,[0. 0. 0. 1.],112,M-H,6.8819,water-mevalonolactone,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,JYVXNLLUYHCIIH-UHFFFAOYSA-N,0.0
+647,[0. 1. 0. 0.],112,M-H,7.206967,water-mevalonolactone,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,JYVXNLLUYHCIIH-UHFFFAOYSA-N,0.0
+652,[0. 0. 0. 1.],134,M-H,27.17512,water-lyxitol,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,HEBKCHPVOIAQTA-IMJSIDKUSA-N,0.0
+655,[1. 0. 0. 0.],278,M-H,6.603267,water-lyxitol,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,HEBKCHPVOIAQTA-IMJSIDKUSA-N,0.0
+656,[0. 1. 0. 0.],278,M+H,8.696283,water-lyxitol,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,HEBKCHPVOIAQTA-IMJSIDKUSA-N,0.0
+657,[1. 0. 0. 0.],278,M,22.56785,water-lyxitol,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,HEBKCHPVOIAQTA-IMJSIDKUSA-N,0.0
+664,[1. 0. 0. 0.],422,M+H,15.81782,water-lyxitol,0.0,4,8.0,CInofilter042822_Shunyang Mix 8,HEBKCHPVOIAQTA-IMJSIDKUSA-N,0.0
+667,[0. 0. 1. 0.],244,M+H,16.5973,glycyl proline,0.0,1,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+668,[1. 0. 0. 0.],244,M-H,16.90578,glycyl proline,0.0,1,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+673,[0. 0. 0. 1.],298,M+H,11.06128,water-glycyl proline,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+674,[0. 0. 0. 1.],298,M-H,23.37387,water-glycyl proline,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+675,[0. 0. 0. 1.],298,M-H,24.88642,water-glycyl proline,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+676,[0. 0. 1. 1.],298,M-H,27.61627,water-glycyl proline,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+677,[0. 0. 0. 1.],298,M-H,28.82697,water-glycyl proline,0.0,2,8.0,CInofilter042822_Shunyang Mix 8,KZNQNBZMBZJQJO-YFKPBYRVSA-N,0.0
+688,[0. 0. 1. 0.],410,M-H,26.29943,squalene,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,YYGNTYWPHWGJRM-AAJYLUCBSA-N,0.0
+689,[0. 0. 0. 1.],410,M-H,28.90988,squalene,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,YYGNTYWPHWGJRM-AAJYLUCBSA-N,0.0
+694,[0. 0. 1. 0.],392,M+H,16.45798,water-squalene,0.0,0,8.0,CInofilter042822_Shunyang Mix 8,YYGNTYWPHWGJRM-AAJYLUCBSA-N,0.0
+697,[0. 0. 1. 1.],232,M+H,14.49225,water-δ-Gluconolactone,17.303,1,9.0,CInofilter042822_Shunyang Mix 9,PHOQVHQSTUBQQK-SQOUGZDYSA-N,0.0
+700,[0. 0. 0. 1.],300,M+H,23.07988,water-alpha-santonin,20.581,1,9.0,CInofilter042822_Shunyang Mix 9,XJHDMGJURBVLLE-BOCCBSBMSA-N,0.0
+703,[0. 0. 1. 1.],99,M+H,9.1851,piperidone,0.0,0,9.0,CInofilter042822_Shunyang Mix 9,XUWHAWMETYGRKB-UHFFFAOYSA-N,0.0
+705,[0. 0. 1. 0.],171,M+H,8.6776,piperidone,0.0,1,9.0,CInofilter042822_Shunyang Mix 9,XUWHAWMETYGRKB-UHFFFAOYSA-N,0.0
+708,[0. 0. 1. 0.],487,M+H,21.81612,water-ophthalmic acid,0.0,3,9.0,CInofilter042822_Shunyang Mix 9,JCMUOFQHZLPHQP-BQBZGAKWSA-N,0.0
+709,[0. 0. 1. 1.],487,M+H,22.97042,water-ophthalmic acid,0.0,3,9.0,CInofilter042822_Shunyang Mix 9,JCMUOFQHZLPHQP-BQBZGAKWSA-N,0.0
+714,[0. 0. 1. 0.],559,M+H,22.33357,water-ophthalmic acid,0.0,4,9.0,CInofilter042822_Shunyang Mix 9,JCMUOFQHZLPHQP-BQBZGAKWSA-N,0.0

@@ -155,7 +155,7 @@ def filtermz85size(mzblock,filtersize):
             mz = float(tmp[0])
             value += float(tmp[1])
     df = pd.DataFrame({'mz':mzlist[1:],'Intensity':valuelist[1:]})
-    df = df[df['mz']>=85]
+    # df = df[df['mz']>=85]
     mz_max = df['Intensity'].max()
     if not filtersize:
         df2 = df

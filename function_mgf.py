@@ -18,7 +18,8 @@ atom_mass = {'H': 1.00782503223,
              'Ar': 39.9623831237,
              'K': 38.9637064864,
              'Ca': 39.962590863,
-             'Si': 27.976927
+             'Si': 27.976927,
+             'Na':22.98976928
              }
 
 def calculate_mass(formula: str):
@@ -45,7 +46,7 @@ def rdmsp(lines):
             block = []
         else:
             block.append(line)
-            
+
 def wmgf(path,file):
     msp = path+'/'+file
     mgf = path + '/' + file.replace('msp','mgf')
@@ -53,7 +54,7 @@ def wmgf(path,file):
     with open(msp,'r') as f:
         tmp = f.readlines()
         f.close()
-    
+
     print(f'writing mgf: {mgf} ...')
     with open(mgf, 'w') as f:
         i = 0
@@ -61,6 +62,7 @@ def wmgf(path,file):
         inchikey = []
         formula = []
         ionization = []
+        addmass = []
         for block in rdmsp(tmp):
             f.writelines('BEGIN IONS\n')
             MS = False
@@ -77,18 +79,22 @@ def wmgf(path,file):
                     else:
                         print('not found: '+ion )
                         exit()
-                if 'Deriv' in line:
-                    mass0 = line.split(':')[1].strip()
+                if 'Deriv' in line: # find max intensity of int. deriv mass peak as accurate mass
+                    mass0 = line.split(':')[1].strip()# add adducts mass to derive mass
                     mass0 = str(int(mass0)+m)
                     ms = pd.DataFrame([sub.split('\t') for sub in block[12:]])
                     ms[1] = ms[1].astype('int')
                     ms['mass']=ms[0].astype('float').round(decimals=0)
                     ms = ms[ms['mass'] == int(mass0)]
-                    idmax = ms[1].idxmax()
-                    accmass = ms[0][idmax]
+                    try:
+                        idmax = ms[1].idxmax()
+                        accmass = ms[0][idmax]
+                    except ValueError:
+                        accmass = '0'
+                    addmass.append(accmass)
                 # if mass0 + '.' in line:
                 #     accmass = line.split('\t')[0]
-            
+
             for line in block:
                 if not MS:
                     if 'Comment' in line:
@@ -114,15 +120,15 @@ def wmgf(path,file):
                             f.writelines('CHARGE=1+\n')
                         # else:
                         #     f.writelines(linea+'='+lineb)
-                    
+
                 else:
                     f.writelines(line)
-                    
-                    
+
+
             f.writelines('END IONS \n\n')
-            
-    return name, inchikey, formula, ionization
-  
+
+    return name, inchikey, formula, ionization,addmass
+
 def wms(path, file):
     msp = path+'/'+file
     ms = path + '/' + file.replace('msp','ms')
@@ -130,7 +136,7 @@ def wms(path, file):
     with open(msp,'r') as f:
         tmp = f.readlines()
         f.close()
-    
+
     print(f'writing ms: {ms} ...')
     with open(ms, 'w') as f:
         name = []
@@ -161,9 +167,9 @@ def wms(path, file):
                         elif linea == 'Num Peaks':
                             MS = True
                             f.writelines('\n>ms2\n')
-                        
+
                 else:
                     f.writelines(line)
 
-    return name, inchikey     
-        
+    return name, inchikey
+
