@@ -3,3 +3,13 @@
 SIRIUS*/
 example/
 ~$rank.xlsx
+*.txt
+*.tsv
+*.info
+*.json
+*.config
+*.sfd
+*.fgt
+*.ms
+stest\filter\filter_allmsptest\filter\filter_allmsp
+*.msp

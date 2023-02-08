@@ -10,7 +10,8 @@ import os
 import sys 
 import numpy as np
 import pandas as pd
-from function_mgf import *
+
+
 
 
     
@@ -23,8 +24,10 @@ elif len(sys.argv)==2:
     sys.argv.append('mgf')
     
     
-# sys.argv = ['.','./test','mgf']
+# sys.argv = ['.','./jack','mgf']
+# sys.argv = ['.','./test/filter','mgf']
     #%%
+from function_mgf import *
 path = sys.argv[1]
 print(f'working under {path}...')   
     
@@ -37,7 +40,7 @@ for file in os.listdir(path):
         
         csv = path + '/' + file.replace('msp','csv')
         
-        df = pd.DataFrame({'name':name,'inchikey':inchikey,'formula':formula,'ionization':ionization,'precursormz':accmass})
+        df = pd.DataFrame({'name':name,'precursormz':accmass})
         df.to_csv(csv)
         print(f'writing csv to save the identifiers...\n for data safetyS, all identifiers are removed from mgf files')     
         # with open(csv,'w') as f:

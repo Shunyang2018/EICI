@@ -1,0 +1,65 @@
+MTD	mzTab-version	2.0.0-M
+MTD	mzTab-ID	SIRIUS-3ebd6773-775a-4d13-896c-23bc7be29e14
+MTD	title	SIRIUS Analysis Report: 3ebd6773-775a-4d13-896c-23bc7be29e14
+MTD	software[1]	[, , SIRIUS, 4.6.1]
+MTD	cv[1]-label	MS
+MTD	cv[1]-uri	URL:https://raw.githubusercontent.com/HUPO-PSI/psi-ms-CV/master/psi-ms.obo
+MTD	cv[1]-version	4.1.16
+MTD	cv[1]-full_name	PSI-MS controlled vocabulary
+MTD	small_molecule-identification_reliability	[MS, MS:1002955, hr-ms compound identification confidence level, ]
+MTD	database[1]	[, , no database, null]
+MTD	database[1]-prefix	null
+MTD	database[1]-uri	null
+MTD	database[1]-version	Unknown
+MTD	database[2]	[, , CSI:FingerID PubChem Copy, CID]
+MTD	database[2]-prefix	CID
+MTD	database[2]-uri	https://pubchem.ncbi.nlm.nih.gov/compound/
+MTD	database[2]-version	2020-06-11
+
+SMH	SML_ID	SMF_ID_REFS	database_identifier	chemical_formula	smiles	inchi	chemical_name	uri	theoretical_neutral_mass	adduct_ions	reliability	best_id_confidence_measure	best_id_confidence_value
+SML	1	1	null	C24H42N2O7Si2	null	null	null	null	526.253054744	[M + H]+	4	null	null
+SML	2	2	null	C18H36O5Si	null	null	null	null	360.233200782	[M + H]+	4	null	null
+SML	3	3	null	C8H17NO2Si	null	null	null	null	187.102855314	[M + H]+	4	null	null
+SML	4	4	null	C26H42N2O8Si	null	null	null	null	538.271042834	[M + H]+	4	null	null
+SML	5	5	null	C12H16O2Si	null	null	null	null	220.091956282	[M + H]+	4	null	null
+SML	6	6	null	C10H22O4Si2	null	null	null	null	262.105662244	[M + H]+	4	null	null
+SML	7	7	null	C45H59O6	null	null	null	null	695.431164608	[M]+	4	null	null
+SML	8	8	null	C8H15NO3Si	null	null	null	null	201.08211986999999	[M + H]+	4	null	null
+SML	9	9	null	C9H24N2O9Si	null	null	null	null	332.125106878	[M + H3N + H]+	4	null	null
+SML	10	10	null	C3H3N4O2	null	null	null	null	127.025600336	[M]+	4	null	null
+SML	11	11	null	C15H34N3O	null	null	null	null	272.270187708	[M - H2 + H]+	4	null	null
+SML	12	12	null	C29H52O8Si3	null	null	null	null	612.296998214	[M + H]+	4	null	null
+SML	13	13	null	C17H33NO7Si2	null	null	null	null	419.179555456	[M]+	4	null	null
+SML	14	14	null	C9H21NO2Si	null	null	null	null	203.134155442	[M + H]+	4	null	null
+
+SFH	SMF_ID	SME_ID_REFS	SME_ID_REF_ambiguity_code	adduct_ion	isotopomer	exp_mass_to_charge	charge	retention_time_in_seconds	retention_time_in_seconds_start	retention_time_in_seconds_end
+SMF	1	1	2	[M + H]+	null	527.25885	1	null	null	null
+SMF	2	2	2	[M + H]+	null	361.23966	1	null	null	null
+SMF	3	3	2	[M + H]+	null	188.11006	1	null	null	null
+SMF	4	4	2	[M + H]+	null	539.2818	1	null	null	null
+SMF	5	5	2	[M + H]+	null	221.09871	1	null	null	null
+SMF	6	6	2	[M + H]+	null	263.11194	1	null	null	null
+SMF	7	7	2	[M]+	null	696.43243	1	null	null	null
+SMF	8	8	2	[M + H]+	null	202.0889	1	null	null	null
+SMF	9	9	2	[M + H3N + H]+	null	350.16199	1	null	null	null
+SMF	10	10	2	[M]+	null	128.0316	1	null	null	null
+SMF	11	11	2	[M - H2 + H]+	null	271.2623	1	null	null	null
+SMF	12	12	2	[M + H]+	null	613.30554	1	null	null	null
+SMF	13	13	2	[M]+	null	420.1875	1	null	null	null
+SMF	14	14	2	[M + H]+	null	204.14104	1	null	null	null
+
+SEH	SME_ID	evidence_input_id	database_identifier	chemical_formula	smiles	inchi	chemical_name	uri	derivatized_form	adduct_ion	exp_mass_to_charge	charge	theoretical_mass_to_charge	spectra_ref	identification_method	ms_level	rank	opt_global_SIRIUS:sirius_score	opt_global_SIRIUS:isotope_score	opt_global_SIRIUS:tree_score	opt_global_SIRIUS:zodiac_score	opt_global_SIRIUS:explained_intensity_ratio	opt_global_SIRIUS:explained_intensity_of_explainable_peaks_ratio	opt_global_SIRIUS:explained_peaks_ratio	opt_global_SIRIUS:annotated_spectra_location	opt_global_SIRIUS:tree_location	opt_global_SIRIUS:candidate_location
+SME	1	9_unknown_10:527.25885:M+H+	null	C24H42N2O7Si2	null	null	null	null	null	[M + H]+	527.25885	1	527.2603311960905	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	67.32226423986923	0.0	67.32226423986923	N/A	0.7998462854111864	0.8486355492258923	0.6610169491525424	spectra\C24H42N2O7Si2_[M+H]+.tsv	trees\C24H42N2O7Si2_[M+H]+.json	9_unknown_10/formula_candidates.tsv
+SME	2	0_unknown_1:361.23966:M+H+	null	C18H36O5Si	null	null	null	null	null	[M + H]+	361.23966	1	361.2404772340905	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	37.373465861382364	0.0	37.373465861382364	N/A	0.7055555555555556	0.9588926174496644	0.4745762711864407	spectra\C18H36O5Si_[M+H]+.tsv	trees\C18H36O5Si_[M+H]+.json	0_unknown_1/formula_candidates.tsv
+SME	3	2_unknown_3:188.11006:M+H+	null	C8H17NO2Si	null	null	null	null	null	[M + H]+	188.11006	1	188.11013176609055	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	54.285542126629245	0.0	54.285542126629245	N/A	0.8755607426655175	0.9825778436771871	0.5555555555555556	spectra\C8H17NO2Si_[M+H]+.tsv	trees\C8H17NO2Si_[M+H]+.json	2_unknown_3/formula_candidates.tsv
+SME	4	12_unknown_13:539.2818:M+H+	null	C26H42N2O8Si	null	null	null	null	null	[M + H]+	539.2818	1	539.2783192860906	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	57.18947304080744	0.0	57.18947304080744	N/A	0.8700583681748565	0.8791751197373102	0.7627118644067796	spectra\C26H42N2O8Si_[M+H]+.tsv	trees\C26H42N2O8Si_[M+H]+.json	12_unknown_13/formula_candidates.tsv
+SME	5	8_unknown_9:221.09871:M+H+	null	C12H16O2Si	null	null	null	null	null	[M + H]+	221.09871	1	221.09923273409055	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	146.6020430222714	0.0	146.6020430222714	N/A	0.5525683525440226	1.0000000000000002	0.5	spectra\C12H16O2Si_[M+H]+.tsv	trees\C12H16O2Si_[M+H]+.json	8_unknown_9/formula_candidates.tsv
+SME	6	3_unknown_4:263.11194:M+H+	null	C10H22O4Si2	null	null	null	null	null	[M + H]+	263.11194	1	263.1129386960905	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	39.41238017374167	0.0	39.41238017374167	N/A	0.89148402837277	1.0	0.5555555555555556	spectra\C10H22O4Si2_[M+H]+.tsv	trees\C10H22O4Si2_[M+H]+.json	3_unknown_4/formula_candidates.tsv
+SME	7	13_unknown_14:696.43243:M+	null	C45H59O6	null	null	null	null	null	[M]+	696.43243	1	696.4384410600906	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	115.8786253848528	0.0	115.8786253848528	N/A	0.7845702182270403	0.9085801240781928	0.7796610169491526	spectra\C45H59O6_[M]+.tsv	trees\C45H59O6_[M]+.json	13_unknown_14/formula_candidates.tsv
+SME	8	5_unknown_6:202.0889:M+H+	null	C8H15NO3Si	null	null	null	null	null	[M + H]+	202.0889	1	202.08939632209052	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	76.16546394329	0.0	76.16546394329	N/A	0.7224196477927821	0.9597146454049518	0.5862068965517241	spectra\C8H15NO3Si_[M+H]+.tsv	trees\C8H15NO3Si_[M+H]+.json	5_unknown_6/formula_candidates.tsv
+SME	9	6_unknown_7:350.16199:M+H+	null	C9H24N2O9Si	null	null	null	null	null	[M + H3N + H]+	350.16199	1	350.15893242609053	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	79.89262539717654	0.0	79.89262539717654	N/A	0.7007994272759814	0.7295605296499641	0.6551724137931034	spectra\C9H27N3O9Si_[M+H3N+H]+.tsv	trees\C9H27N3O9Si_[M+H3N+H]+.json	6_unknown_7/formula_candidates.tsv
+SME	10	4_unknown_5:128.0316:M+	null	C3H3N4O2	null	null	null	null	null	[M]+	128.0316	1	128.03287678809053	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	6.970928828027427	0.0	6.970928828027427	N/A	0.44829157175398626	0.9954476479514415	0.017543859649122806	spectra\C3H3N4O2_[M]+.tsv	trees\C3H3N4O2_[M]+.json	4_unknown_5/formula_candidates.tsv
+SME	11	7_unknown_8:271.2623:M-H2+H+	null	C15H34N3O	null	null	null	null	null	[M - H2 + H]+	271.2623	1	273.2774641600905	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	105.68793675823898	0.0	105.68793675823898	N/A	0.8994075661087572	0.991621615449115	0.8448275862068966	spectra\C15H32N3O_[M-H2+H]+.tsv	trees\C15H32N3O_[M-H2+H]+.json	7_unknown_8/formula_candidates.tsv
+SME	12	11_unknown_12:613.30554:M+H+	null	C29H52O8Si3	null	null	null	null	null	[M + H]+	613.30554	1	613.3042746660906	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	40.32884641917383	0.0	40.32884641917383	N/A	0.7491066625044005	0.7590894406342757	0.5172413793103449	spectra\C29H52O8Si3_[M+H]+.tsv	trees\C29H52O8Si3_[M+H]+.json	11_unknown_12/formula_candidates.tsv
+SME	13	10_unknown_11:420.1875:M+	null	C17H33NO7Si2	null	null	null	null	null	[M]+	420.1875	1	420.18683190809054	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	45.56492706897689	0.0	45.56492706897689	N/A	0.8278728815370481	0.8799463904411435	0.7241379310344828	spectra\C17H33NO7Si2_[M]+.tsv	trees\C17H33NO7Si2_[M]+.json	10_unknown_11/formula_candidates.tsv
+SME	14	1_unknown_2:204.14104:M+H+	null	C9H21NO2Si	null	null	null	null	null	[M + H]+	204.14104	1	204.14143189409054	null	[, , SIRIUS, 4.6.1]	[MS, MS:1000511, ms_level, 2]	1	40.8640089585477	0.0	40.8640089585477	N/A	0.9384310467600283	1.0	0.7368421052631579	spectra\C9H21NO2Si_[M+H]+.tsv	trees\C9H21NO2Si_[M+H]+.json	1_unknown_2/formula_candidates.tsv

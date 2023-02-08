@@ -79,9 +79,11 @@ def wmgf(path,file):
                     else:
                         print('not found: '+ion )
                         exit()
+            for line in block:
                 if 'Deriv' in line: # find max intensity of int. deriv mass peak as accurate mass
                     mass0 = line.split(':')[1].strip()# add adducts mass to derive mass
                     mass0 = str(int(mass0)+m)
+                     #mass0 = str(int(mass0)-15) 15 loss
                     ms = pd.DataFrame([sub.split('\t') for sub in block[12:]])
                     ms[1] = ms[1].astype('int')
                     ms['mass']=ms[0].astype('float').round(decimals=0)
@@ -89,9 +91,11 @@ def wmgf(path,file):
                     try:
                         idmax = ms[1].idxmax()
                         accmass = ms[0][idmax]
+
                     except ValueError:
                         accmass = '0'
                     addmass.append(accmass)
+
                 # if mass0 + '.' in line:
                 #     accmass = line.split('\t')[0]
 
@@ -100,11 +104,13 @@ def wmgf(path,file):
                     if 'Comment' in line:
                         pass
                     else:
-                        linea, lineb = line.split(':')
-                        if linea == 'PRECURSORMZ':
+                        tmp = line.split(':')
+                        linea, lineb = tmp[0], tmp[1]
+                        if linea == 'ExactMass':
                             f.writelines('PEPMASS='+lineb)
                         elif linea == 'ionization':
                             f.writelines('Ionization='+lineb)
+                            # f.writelines('Ionization=\t[M]+\n')
                             ionization.append(lineb.strip())
                         elif linea == 'NAME':
                             i +=1
@@ -112,7 +118,7 @@ def wmgf(path,file):
                             f.writelines('NAME='+str(i)+'\n')
                         elif linea == 'InChiKey':
                             inchikey.append(lineb.strip())
-                        elif linea == 'formula':
+                        elif linea == 'formulab':
                             formula.append(lineb.strip())
                         elif linea == 'Num Peaks':
                             MS = True
@@ -154,22 +160,49 @@ def wms(path, file):
                         linea, lineb = line.split(':')
                         if linea == 'PRECURSORMZ':
                             f.writelines('>parentmass'+lineb)
-                        elif linea == 'Name':
+                        elif linea == 'NAME':
                             i +=1
                             name.append(lineb)
-                            f.writelines('>compound'+str(i)+'\n')
-                        elif linea == 'InChIKey':
+                            f.writelines('>compound\t'+str(i)+'\n')
+                        elif linea == 'InChiKey':
                             inchikey.append(lineb)
                         elif linea == 'Formula':
                             f.writelines('>formula'+ lineb)
-                        elif linea == 'Precursor_type':
+                        elif linea == 'PRECURSORTYPE':
+
                             f.writelines('>ionization' + lineb)
+                            ion = lineb
+                            if 'M-' in ion:
+                                m = -1
+                            elif 'M+' in ion:
+                                m = 1
+                            elif 'M]' in ion:
+                                m = 0
                         elif linea == 'Num Peaks':
                             MS = True
                             f.writelines('\n>ms2\n')
+                        elif 'Deriv' in line: # find max intensity of int. deriv mass peak as accurate mass
+                            mass0 = line.split(':')[1].strip()# add adducts mass to derive mass
+                            mass0 = str(int(mass0)+m)
+                            ms = pd.DataFrame([sub.split('\t') for sub in block[12:]])
+                            ms[1] = ms[1].astype('int')
+                            ms['mass']=ms[0].astype('float').round(decimals=0)
+                            ms0 = ms[ms['mass'] == int(mass0)]
 
+                            idmax = ms0[1].idxmax()
+                            accmass = ms0[0][idmax]
+                            ms = ms[:][idmax:]
+
+                            f.writelines('>parentmass\t'+accmass+'\n')
                 else:
                     f.writelines(line)
+
+            f.writelines('\n>ms1\n')
+            for index, row in ms.iterrows():
+                f.writelines(row[0]+ '\t' +str( row[1])+ '\n')
+
+            f.writelines('\n')
+
 
     return name, inchikey
 
